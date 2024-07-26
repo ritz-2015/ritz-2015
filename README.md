@@ -40,6 +40,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ritz-2015/ritz-2015/output/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/ritz-2015/ritz-2015/output/snake.svg" alt="Snake animation" />-->
 
 ###
